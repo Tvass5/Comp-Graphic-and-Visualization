@@ -2,6 +2,9 @@
 
 # How do I approach designing software?
 What new design skills has your work on the project helped you to craft?
+
+When working on my project it helped me to craft my conceptualization and visualization skills.
+
 What design process did you follow for your project work?
 How could tactics from your design approach be applied in future work?
 # How do I approach developing programs?
